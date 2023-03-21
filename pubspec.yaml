@@ -27,7 +27,7 @@ dependencies:
   http:
   bottom_navy_bar:
   fluttertoast:
-  dio: 2.2.2
+  dio: ">=2.2.2 <6.0.0"
   morpheus: ^1.2.2+1
   bubble_bottom_bar: ^1.2.0
   shifting_tabbar: ^0.3.1
